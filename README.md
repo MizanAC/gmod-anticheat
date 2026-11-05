@@ -34,10 +34,7 @@ can't see, so a wallhack or ESP has nothing to draw.
 
 ```mermaid
 flowchart LR
-    A["Your game server<br/>Mizan module"] -- "what players send" --> B["Mizan detection service<br/>AI models and detectors"]
-    B -- "two kinds of evidence agree" --> C["Case<br/>findings and 3D replay"]
-    C --> D["Your staff decide<br/>dashboard and Discord"]
-    D -- "ban" --> E["Your admin mod"]
+    A(Your server) --> B(Mizan) --> C(Case and replay) --> D(Your staff) --> E(Ban)
 ```
 
 The module on your server reads what the game already receives from each player and sends it on. It makes no
