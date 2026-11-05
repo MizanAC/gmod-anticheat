@@ -11,9 +11,9 @@
 <br>
 <br>
 
-[![Status](https://img.shields.io/badge/status-early%20access-F01035?style=flat-square&labelColor=0D0D0F)](https://mizan.ac/dashboard/new)
-[![Platforms](https://img.shields.io/badge/servers-Linux%20%C2%B7%20Windows-30363D?style=flat-square&labelColor=0D0D0F&logo=steam&logoColor=white)](#requirements)
-[![Discord](https://img.shields.io/badge/discord-join-5865F2?style=flat-square&labelColor=0D0D0F&logo=discord&logoColor=white)](https://discord.gg/fRbk43tKcV)
+[![Status](https://img.shields.io/badge/status-early%20access-F01035?style=flat-square&labelColor=24292F)](https://mizan.ac/dashboard/new)
+[![Platforms](https://img.shields.io/badge/servers-Linux%20%C2%B7%20Windows-30363D?style=flat-square&labelColor=24292F&logo=steam&logoColor=white)](#requirements)
+[![Discord](https://img.shields.io/badge/discord-join-5865F2?style=flat-square&labelColor=24292F&logo=discord&logoColor=white)](https://discord.gg/fRbk43tKcV)
 
 [Website](https://mizan.ac) &nbsp;·&nbsp; [What it detects](https://mizan.ac/anti-cheat) &nbsp;·&nbsp; [Comparison](https://mizan.ac/anti-cheat/compare) &nbsp;·&nbsp; [Blog](https://mizan.ac/blog)
 
